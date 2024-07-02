@@ -39,3 +39,28 @@ Linkedin:https://www.linkedin.com/in/gabriel-mu%C3%B1oz-b81358198/
 Instagram: https://www.instagram.com/gabriel_it_ok
 Te espero!!!
 Saludos😊
+
+
+Entrega del 1 al 12-07
+
+La actividad consta de un proyecto en el cual se integre lo visto a lo largo de la cursada.
+
+Tienen dos opciones para realizar la entrega:
+
+Opción A: pueden subir su proyecto a algún servicio gratuito como githubpage, netlify.com, etc
+
+Opción B: La entrega puede realizarse en formato video donde se muestre en como máximo de 3 minutos la funcionalidad de la aplicación. 
+
+El video deberá subirse a alguna plataforma:
+
+-youtube (https://youtube.com)
+
+-vimeo (https://vimeo.com/)
+
+-https://www.dailymotion.com/ar
+
+Deberás elegir solo una de las dos alternativas, y pegar el link correspondiente
+
+
+
+
